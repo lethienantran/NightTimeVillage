@@ -1,4 +1,5 @@
 # Night Time Village
+# Authors: Le Duy An Tran, Le Thien An Tran
 ![Connect](https://user-images.githubusercontent.com/114903308/203519571-c5ceb2fc-7ac6-4f4a-bd12-1cc6032952c4.png)
 ![createroom](https://user-images.githubusercontent.com/114903308/203519581-09353ad8-9a5c-46f7-862a-2fc8096f48cc.png)
 ![joinroom](https://user-images.githubusercontent.com/114903308/203519594-222ad57d-fd62-4b30-aaaf-79c52e6cc824.png)
