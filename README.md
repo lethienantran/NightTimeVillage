@@ -59,7 +59,7 @@ Besides, in the production build, we implemented the daynight cycle, set up the 
 <p align="center"><em>The Result of Voting Will Be Shown</em></p>
 
 # Installations: 
-This repository is only the draft, and it is only configured with the use of Photon Network for testing and developing the gameplay. You can check out 
+This repository is only the draft version assets, which only configured with the use of Photon Network for testing and developing the gameplay. It is not all full source.
 
 
 
