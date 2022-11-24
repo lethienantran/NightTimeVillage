@@ -50,7 +50,9 @@ Besides, in the production build, we implemented the daynight cycle, set up the 
 <p align="center"><em>The Chat/Discuss During the Day</em></p>
 
 ![gameplay2](https://user-images.githubusercontent.com/114903308/203625172-d71aa05b-fef0-4691-84e7-6eaf0ac71c1b.png)
+<p align="center"><em>The Result of Voting Will Be Shown</em></p>
 
+# Installations:
 
 
 
