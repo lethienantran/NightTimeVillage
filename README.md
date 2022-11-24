@@ -42,13 +42,16 @@ Aseprite, Unity Game Engine, Visual Studio 2022, PlayFab, Photon
 ![gameplay4](https://user-images.githubusercontent.com/114903308/203519638-2b764373-2d79-4d80-9ab6-7e2d71c539c1.png)
 <p align="center"><em>If the player is in the house, within the Orthographic View - they should not be visible and interactable</em></p>
 
-![chatgame1](https://user-images.githubusercontent.com/114903308/203625139-7bc0c9b0-0260-4fa1-ac12-95c3ba61ac52.png)
-![chatgamee2](https://user-images.githubusercontent.com/114903308/203625141-099852c9-253c-4863-a46d-969fe35b9b32.png)
+Besides, in the production build, we implemented the daynight cycle, set up the lighting and RPCs for role functions as well as the timing voting system (daily at 9am). The cast voting function is one of the hardest as we need to think of any ways to optimize the speed of checking and looping for a better performance when it comes to the big game room.
+![nightgame1](https://user-images.githubusercontent.com/114903308/203625189-086286d1-654b-466e-b110-b309237e3cff.png)
+<p align="center"><em>The Day-Night Cycle</em></p>
+
 ![gamechat4](https://user-images.githubusercontent.com/114903308/203625161-21411efe-4424-45da-ad05-4bbce49e79b4.png)
+<p align="center"><em>The Chat/Discuss During the Day</em></p>
 
 ![gameplay2](https://user-images.githubusercontent.com/114903308/203625172-d71aa05b-fef0-4691-84e7-6eaf0ac71c1b.png)
 
-![nightgame1](https://user-images.githubusercontent.com/114903308/203625189-086286d1-654b-466e-b110-b309237e3cff.png)
+
 
 
 
