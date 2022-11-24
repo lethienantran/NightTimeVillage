@@ -49,11 +49,17 @@ Besides, in the production build, we implemented the daynight cycle, set up the 
 ![gamechat4](https://user-images.githubusercontent.com/114903308/203625161-21411efe-4424-45da-ad05-4bbce49e79b4.png)
 <p align="center"><em>The Chat/Discuss During the Day</em></p>
 
+![2333](https://user-images.githubusercontent.com/114903308/203749694-9f580af6-4fe8-4a5b-bf1f-b3decd8b67f6.png)
+<p align="center"><em>The Voting Options Is Available During the Day (7-9am) for Voting</em></p>
+
+![image](https://user-images.githubusercontent.com/114903308/203749617-59d035fc-c057-4ab3-84c9-81a8dc79c443.png)
+<p align="center"><em>The Player Can Get to Know Who Voted, and Who Has Not. They Can Also Choose the Person to Vote or Skip.</em></p>
+
 ![gameplay2](https://user-images.githubusercontent.com/114903308/203625172-d71aa05b-fef0-4691-84e7-6eaf0ac71c1b.png)
 <p align="center"><em>The Result of Voting Will Be Shown</em></p>
 
-# Installations:
-
+# Installations: 
+This repository is only the draft, and it is only configured with the use of Photon Network for testing and developing the gameplay. You can check out 
 
 
 
